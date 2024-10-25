@@ -1,7 +1,7 @@
 //for table multiplication
 
 //for loop
-for(let i = 1; i<=100; i++){
+for(let i = 1; i<=10; i++){
     document.write(`8 x ${i} = ${8*i} <br>`)
 }
 
